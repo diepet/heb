@@ -20,6 +20,6 @@
       "name": "Finance.Abacus",
       "url": "",
       "head": "",
-      "imports": []
+      "imports": ["Finance.SuccessFactors"]
     }
 ]
