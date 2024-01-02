@@ -1,23 +1,23 @@
 [{
-      "name": "2545.2545 BBBBB",
+      "name": "SAP S/4 HANA",
       "url": "https://www.youtube.com/watch?v=GAHtIUL1vnE",
       "head": "XXX",
-      "imports": ["x.Entertainment"]
+      "imports": ["Adyen", "SuccessFactors", "Abacus"]
     },
     {
-      "name": "2545.2545 VVVV",
+      "name": "SuccessFactors",
       "url": "https://youtu.be/4Pjn9zTK6KY",
       "head": "XXX",
       "imports": ["x.Entertainment"]
     },
     {
-      "name": "2545.2545 AAAAA",
+      "name": "Adyen",
       "url": "https://www.youtube.com/watch?v=Ea_QaB-zxtg",
       "head": "YYY",
       "imports": ["x.Entertainment"]
     },
     {
-      "name": "x.Entertainment",
+      "name": "Abacus",
       "url": "",
       "head": "",
       "imports": []
