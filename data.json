@@ -1,23 +1,23 @@
 [{
-      "name": "Finance.SAP S/4 HANA",
+      "name": "2560.2561 SAP S/4 HANA",
       "url": "https://www.youtube.com/watch?v=GAHtIUL1vnE",
       "head": "",
-      "imports": ["Finance.Adyen", "Finance.SuccessFactors", "Finance.Abacus"]
+      "imports": ["2560.2561 Adyen", "2560.2561 SuccessFactors", "2560.2561 Abacus"]
     },
     {
-      "name": "Finance.SuccessFactors",
+      "name": "2560.2561 SuccessFactors",
       "url": "https://youtu.be/4Pjn9zTK6KY",
       "head": "",
       "imports": [""]
     },
     {
-      "name": "Finance.Adyen",
+      "name": "2560.2561 Adyen",
       "url": "https://www.youtube.com/watch?v=Ea_QaB-zxtg",
       "head": "",
       "imports": [""]
     },
     {
-      "name": "Finance.Abacus",
+      "name": "2560.2561 Abacus",
       "url": "",
       "head": "",
       "imports": []
