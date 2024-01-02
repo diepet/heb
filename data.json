@@ -1,20 +1,20 @@
 [{
       "name": "SAP S/4 HANA",
       "url": "https://www.youtube.com/watch?v=GAHtIUL1vnE",
-      "head": "XXX",
+      "head": "",
       "imports": ["Adyen", "SuccessFactors", "Abacus"]
     },
     {
       "name": "SuccessFactors",
       "url": "https://youtu.be/4Pjn9zTK6KY",
-      "head": "XXX",
-      "imports": ["x.Entertainment"]
+      "head": "",
+      "imports": [""]
     },
     {
       "name": "Adyen",
       "url": "https://www.youtube.com/watch?v=Ea_QaB-zxtg",
-      "head": "YYY",
-      "imports": ["x.Entertainment"]
+      "head": "",
+      "imports": [""]
     },
     {
       "name": "Abacus",
