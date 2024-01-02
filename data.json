@@ -20,7 +20,7 @@
       "name": "Finance.Abacus",
       "url": "",
       "head": "",
-      "imports": ["Finance.SuccessFactors"]
+      "imports": ["Finance.SAP S/4 HANA"]
     },
     {
       "name": "Finance.Navision",
