@@ -74,7 +74,7 @@
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
-  "name": "Miami Terminal.Terminal Check-In",
+  "name": "Miami Terminal.Terminal CheckIn",
   "head": "",
   "imports": ["Miami Terminal.Mitico Panel"]
 },
