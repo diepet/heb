@@ -69,7 +69,7 @@
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
-  "name": "Finance.Tagetik",
+  "name": "Finance.TagetikXXX",
   "head": "",
   "imports": ["Finance.SAP S/4 HANA"]
 },
