@@ -1,36 +1,30 @@
 [{
       "name": "Finance.SAP S/4 HANA",
-      "url": "https://www.youtube.com/watch?v=GAHtIUL1vnE",
       "head": "",
       "imports": ["Finance.Adyen", "Finance.SuccessFactors", "Finance.Abacus", "Finance.Navision", "Finance.FIS Integrity"]
     },
     {
       "name": "Finance.SuccessFactors",
-      "url": "",
       "head": "",
       "imports": []
     },
     {
       "name": "Finance.Adyen",
-      "url": "",
       "head": "",
       "imports": []
     },
     {
       "name": "Finance.Abacus",
-      "url": "",
       "head": "",
       "imports": ["Finance.SAP S/4 HANA"]
     },
     {
       "name": "Finance.Navision",
-      "url": "",
       "head": "",
       "imports": []
     },
     {
       "name": "Finance.FIS Integrity",
-      "url": "",
       "head": "",
       "imports": []
     }
