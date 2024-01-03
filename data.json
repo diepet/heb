@@ -27,50 +27,5 @@
   "name": "Finance.FIS Integrity",
   "head": "",
   "imports": ["Finance.SAP S/4 HANA"]
-},
-{
-  "name": "Finance.Worldpay",
-  "head": "",
-  "imports": ["Finance.SAP S/4 HANA"]
-},
-{
-  "name": "Finance.AMEX",
-  "head": "",
-  "imports": ["Finance.SAP S/4 HANA"]
-},
-{
-  "name": "Finance.Concur",
-  "head": "",
-  "imports": ["Finance.SAP S/4 HANA"]
-},
-{
-  "name": "Finance.Esker",
-  "head": "",
-  "imports": ["Finance.SAP S/4 HANA"]
-},
-{
-  "name": "Finance.Oceanly",
-  "head": "",
-  "imports": ["Finance.SAP S/4 HANA"]
-},
-{
-  "name": "Finance.Webda",
-  "head": "",
-  "imports": ["Finance.SAP S/4 HANA"]
-},
-{
-  "name": "Finance.FX Rates Cargo",
-  "head": "",
-  "imports": ["Finance.SAP S/4 HANA"]
-},
-{
-  "name": "Finance.Glam",
-  "head": "",
-  "imports": ["Finance.SAP S/4 HANA"]
-},
-{
-  "name": "Finance.Tagetik",
-  "head": "",
-  "imports": ["Finance.SAP S/4 HANA"]
 }
 ]
