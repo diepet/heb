@@ -72,5 +72,15 @@
   "name": "Finance.Tagetik",
   "head": "",
   "imports": ["Finance.SAP S/4 HANA"]
+},
+{
+  "name": "Miami Terminal.Terminal Check-In",
+  "head": "",
+  "imports": ["Miami Terminal.Mitico Panel"]
+},
+{
+  "name": "Miami Terminal.Mitico Panel",
+  "head": "",
+  "imports": [""]
 }
 ]
