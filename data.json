@@ -49,12 +49,12 @@
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
-  "name": "On Board Services.Oceanly",
+  "name": "Finance.Oceanly",
   "head": "",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
-  "name": "On Board Services.Webda",
+  "name": "Finance.Webda",
   "head": "",
   "imports": ["Finance.SAP S/4 HANA"]
 },
@@ -64,7 +64,7 @@
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
-  "name": "On Board Services.Glam",
+  "name": "Finance.Glam",
   "head": "",
   "imports": ["Finance.SAP S/4 HANA"]
 },
