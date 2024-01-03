@@ -96,7 +96,7 @@
 {
   "name": "Reservation.DTS",
   "head": "",
-  "imports": ["Miami Terminal.Skidata"]
+  "imports": ["Miami Terminal.Skidata", "Finance.Datatrans"]
 },
 {
   "name": "Miami Terminal.Skidata",
@@ -117,5 +117,20 @@
   "name": "Digital.Sinch",
   "head": "",
   "imports": []
+},
+{
+  "name": "Finance.Datatrans",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "Digital.B2B",
+  "head": "",
+  "imports": ["Reservation.DTS"]
+},
+{
+  "name": "Digital.B2C",
+  "head": "",
+  "imports": ["Reservation.DTS"]
 }
 ]
