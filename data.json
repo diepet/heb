@@ -1,7 +1,7 @@
 [{
   "name": "Finance.SAP S/4 HANA",
   "head": "",
-  "class": "finance"
+  "class": "finance",
   "imports": []
 },
 {
@@ -73,11 +73,13 @@
 {
   "name": "Finance.FX Rates Cargo",
   "head": "",
+  "class": "finance",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "On Board Services.Glam",
   "head": "",
+  "class": "obs",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
