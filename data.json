@@ -6,16 +6,19 @@
 {
   "name": "Finance.SuccessFactors",
   "head": "",
+  "class": "finance",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "Finance.Adyen",
   "head": "",
+  "class": "finance",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "Finance.Abacus",
   "head": "",
+  "class": "finance",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
