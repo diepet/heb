@@ -91,7 +91,7 @@
 {
   "name": "Miami Terminal.Visionbox",
   "head": "",
-  "imports": ["On Board Services.Otalio"]
+  "imports": ["On Board Services.Otalio", "Miami Terminal.Mitico Panel"]
 },
 {
   "name": "Reservation.DTS",
@@ -100,6 +100,21 @@
 },
 {
   "name": "Miami Terminal.Skidata",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "Digital.Marketo",
+  "head": "",
+  "imports": ["Digital.Attentive", "Digital.Sinch"]
+},
+{
+  "name": "Digital.Attentive",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "Digital.Sinch",
   "head": "",
   "imports": []
 }
