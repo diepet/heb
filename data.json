@@ -1,17 +1,17 @@
 [{
       "name": "Finance.SAP S/4 HANA",
       "head": "",
-      "imports": ["Finance.Adyen", "Finance.SuccessFactors", "Finance.Abacus", "Finance.Navision", "Finance.FIS Integrity"]
+      "imports": []
     },
     {
       "name": "Finance.SuccessFactors",
       "head": "",
-      "imports": []
+      "imports": ["Finance.SAP S/4 HANA"]
     },
     {
       "name": "Finance.Adyen",
       "head": "",
-      "imports": []
+      "imports": ["Finance.SAP S/4 HANA"]
     },
     {
       "name": "Finance.Abacus",
@@ -21,11 +21,11 @@
     {
       "name": "Finance.Navision",
       "head": "",
-      "imports": []
+      "imports": ["Finance.SAP S/4 HANA"]
     },
     {
       "name": "Finance.FIS Integrity",
       "head": "",
-      "imports": []
+      "imports": ["Finance.SAP S/4 HANA"]
     }
 ]
