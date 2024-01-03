@@ -76,7 +76,7 @@
 {
   "name": "Miami Terminal.Mitico Panel",
   "head": "",
-  "imports": [""]
+  "imports": []
 },
 {
   "name": "Miami Terminal.Terminal CheckIn",
