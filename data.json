@@ -1,12 +1,13 @@
 [{
   "name": "Finance.SAP S/4 HANA",
   "head": "",
+  "class": "finance"
   "imports": []
 },
 {
-  "name": "Finance.SuccessFactors",
+  "name": "HR.SuccessFactors",
   "head": "",
-  "class": "finance",
+  "class": "hr",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
@@ -16,49 +17,57 @@
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
-  "name": "Finance.Abacus",
+  "name": "HR.Abacus",
   "head": "",
-  "class": "finance",
+  "class": "hr",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "Finance.Navision",
   "head": "",
+  "class": "finance",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "Finance.FIS Integrity",
   "head": "",
+  "class": "finance",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "Finance.Worldpay",
   "head": "",
+  "class": "finance",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "Finance.AMEX",
   "head": "",
+  "class": "finance",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "Finance.Concur",
   "head": "",
+  "class": "finance",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "Finance.Esker",
   "head": "",
+  "class": "finance",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "On Board Services.Oceanly",
   "head": "",
+  "class": "obs",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "On Board Services.Webda",
   "head": "",
+  "class": "obs",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
@@ -74,11 +83,13 @@
 {
   "name": "Finance.Tagetik",
   "head": "",
+  "class": "finance",
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
   "name": "Miami Terminal.Terminal Check-In",
   "head": "",
+  "class": "miami",
   "imports": ["Miami Terminal.Mitico Panel", "On Board Services.Otalio"]
 },
 {
@@ -89,51 +100,61 @@
 {
   "name": "On Board Services.Otalio",
   "head": "",
+  "class": "obs",
   "imports": []
 },
 {
   "name": "Miami Terminal.Visionbox",
   "head": "",
+  "class": "miami",
   "imports": ["On Board Services.Otalio", "Miami Terminal.Mitico Panel"]
 },
 {
   "name": "Reservation.DTS",
   "head": "",
+  "class": "reservation",
   "imports": ["Miami Terminal.Skidata", "Finance.Datatrans"]
 },
 {
   "name": "Miami Terminal.Skidata",
   "head": "",
+  "class": "miami",
   "imports": []
 },
 {
   "name": "Digital.Marketo",
   "head": "",
+  "class": "digital",
   "imports": ["Digital.Attentive", "Digital.Sinch"]
 },
 {
   "name": "Digital.Attentive",
   "head": "",
+  "class": "digital",
   "imports": []
 },
 {
   "name": "Digital.Sinch",
   "head": "",
+  "class": "digital",
   "imports": []
 },
 {
   "name": "Finance.Datatrans",
   "head": "",
+  "class": "finance",
   "imports": []
 },
 {
   "name": "Digital.B2B",
   "head": "",
+  "class": "digital",
   "imports": ["Reservation.DTS"]
 },
 {
   "name": "Digital.B2C",
   "head": "",
+  "class": "digital",
   "imports": ["Reservation.DTS"]
 }
 ]
