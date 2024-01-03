@@ -74,13 +74,33 @@
   "imports": ["Finance.SAP S/4 HANA"]
 },
 {
+  "name": "Miami Terminal.Terminal Check-In",
+  "head": "",
+  "imports": ["Miami Terminal.Mitico Panel", "On Board Services.Otalio"]
+},
+{
   "name": "Miami Terminal.Mitico Panel",
   "head": "",
   "imports": []
 },
 {
-  "name": "Miami Terminal.Terminal CheckIn",
+  "name": "On Board Services.Otalio",
   "head": "",
-  "imports": ["Miami Terminal.Mitico Panel"]
+  "imports": []
+},
+{
+  "name": "Miami Terminal.Visionbox",
+  "head": "",
+  "imports": ["On Board Services.Otalio"]
+},
+{
+  "name": "Reservation.DTS",
+  "head": "",
+  "imports": ["Miami Terminal.Skidata"]
+},
+{
+  "name": "Miami Terminal.Skidata",
+  "head": "",
+  "imports": []
 }
 ]
